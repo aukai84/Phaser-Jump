@@ -1,3 +1,4 @@
+//jshint esversion: 6
 (Game => {
   // get or create our Game module
   if( Game === undefined ){
